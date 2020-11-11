@@ -15,4 +15,6 @@
 7. 画像のアップロードフォームの作成
 ```$ php artisan make:controller UploadImageController```
 8. ルーティングの設定
-9.
+9. アップロード機能の作成
+10. 画像一覧コントローラーの作成、編集
+```$ php artisan make:controller ImageListController```
